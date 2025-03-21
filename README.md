@@ -20,7 +20,6 @@
 
 ## **📫 Let's Get Connected**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darija-šachova-823992207)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dsachova@gmail.com)
 
 I’m always eager to take on new challenges and expand my knowledge. If you’d like to collaborate, feel free to connect with me on LinkedIn or reach out via email.
