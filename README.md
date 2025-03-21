@@ -1,9 +1,24 @@
-# Hello 👋, Welcome to Darija's GitHub Profile
+# **Hello 👋, I'm Darija**
+![galaxy_pixel_art](images/galaxy_pixel_art.jpg)
 
-## 💻 Technologies and Tools
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### **👩🏽‍💻 About Me**
+- Aspiring Data Scientist
+- Molecular Biology graduate
+- Eager to learn from experienced professionals and create impact through Data Analytics and Machine Learning
 
-## 📫 Let's Get Connected
+### **🚀 Currently Working On**
+> NLP fake information clasiffication project with article headlines and body text data.
+
+## **🗲 Technical Skills & Tools**
+- **Software Engineering:** Python, Docker, Object-Oriented Programming, Model Deployment
+- SQL & Relational Databases
+- Data Visualization, Dashboards, Data Storytelling
+- **Analytical Methods:** Data Wrangling & Cleaning, EDA, LIME, SHAP, PCA
+- **Machine Learning:** Linear & Logistic Regression, KNNs, SVMs, Decision Trees, Random Forests, XGBoost, Feature engineering, Dimensionality reduction, Clustering, Hyperparameter Tuning, Model Selection
+- **Mathematics & Statistics:** Linear Algebra, Statistical Inference, A/B Testing, Statistical modeling
+- **Deep Learning:** PyTorch, CNNs, RNNs, Computer Vision, Natural Language Processing & Transformer Architectures
+
+## **📫 Let's Get Connected**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darija-šachova-823992207)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dsachova@gmail.com)
